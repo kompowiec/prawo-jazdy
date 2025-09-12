@@ -21,4 +21,4 @@ Windows:
 Linux:
 ~/.local/share/Anki2/Użytkownik 1/collection.media/
 4. W Anki wybierz File → Import, wskaż plik CSV, który przygotowałem, przypisz kolumny:
-
+![kolumny anki](https://github.com/kompowiec/prawo-jazdy/blob/main/Screenshot_20250912_234002.png?raw=true)
