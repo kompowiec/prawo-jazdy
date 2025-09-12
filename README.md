@@ -20,5 +20,5 @@ Windows:
 %APPDATA%\Anki2\Użytkownik 1\collection.media\
 Linux:
 ~/.local/share/Anki2/Użytkownik 1/collection.media/
-4. W Anki wybierz File → Import, wskaż plik CSV, który przygotowałem, przypisz kolumny:
+4. W Anki wybierz File → Import, wskaż plik CSV, [który przygotowałem](https://github.com/kompowiec/prawo-jazdy/raw/refs/heads/main/katalog_pytania_egzminacyjne_kandydat__14112024.csv), przypisz kolumny:
 ![kolumny anki](https://github.com/kompowiec/prawo-jazdy/blob/main/Screenshot_20250912_234002.png?raw=true)
