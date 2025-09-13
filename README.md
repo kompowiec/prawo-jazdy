@@ -12,7 +12,7 @@ Usprawnienia względem https://ankiweb.net/shared/info/536930601
 7. Dodanie kontrolek pojazdu i policjanta kierującego ruchem
 
 ## pytania
-z uwagi na gabaryty (1.1 GB) których nie mogę tu zamieścić, oto co należy zrobić:
+gdyby ktoś chciał zaktualizować mój plik:
 1. pobrać dane multimedialne z [oficjalnej witryny](https://www.gov.pl/web/infrastruktura/prawo-jazdy) - [bezpośredni link](https://www.gov.pl/pliki/mi/wizualizacje_do_pytan_18_01_2024.zip)
 2. skonwertuj z .vmw do zrozumiałego dla anki .mp4 (ffmpeg, handbrake, wszystko jedno - Zalecam ustawienia AV1/opus)
 3. Skopiuj wszystkie media do katalogu Anki. Anki nie przeszukuje podfolderów, więc musisz wszystkie pliki wrzucić do jednego folderu collection.media:
